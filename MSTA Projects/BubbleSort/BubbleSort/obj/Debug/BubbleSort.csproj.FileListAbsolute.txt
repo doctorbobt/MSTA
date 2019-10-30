@@ -1,0 +1,12 @@
+D:\Data\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Data\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\Data\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Data\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Data\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Data\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Downloads\Tacoma Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,10 @@
+D:\Downloads\MiscUtilities\TestUtilities\bin\Debug\TestUtilities.exe.config
+D:\Downloads\MiscUtilities\TestUtilities\bin\Debug\TestUtilities.exe
+D:\Downloads\MiscUtilities\TestUtilities\bin\Debug\TestUtilities.pdb
+D:\Downloads\MiscUtilities\TestUtilities\bin\Debug\MiscUtilities.dll
+D:\Downloads\MiscUtilities\TestUtilities\bin\Debug\MiscUtilities.pdb
+D:\Downloads\MiscUtilities\TestUtilities\obj\Debug\TestUtilities.csprojAssemblyReference.cache
+D:\Downloads\MiscUtilities\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+D:\Downloads\MiscUtilities\TestUtilities\obj\Debug\TestUtilities.csproj.CopyComplete
+D:\Downloads\MiscUtilities\TestUtilities\obj\Debug\TestUtilities.exe
+D:\Downloads\MiscUtilities\TestUtilities\obj\Debug\TestUtilities.pdb

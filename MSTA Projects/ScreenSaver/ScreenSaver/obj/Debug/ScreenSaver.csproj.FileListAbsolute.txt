@@ -1,0 +1,7 @@
+D:\Downloads\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+D:\Downloads\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+D:\Downloads\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+D:\Downloads\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojAssemblyReference.cache
+D:\Downloads\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+D:\Downloads\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+D:\Downloads\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb

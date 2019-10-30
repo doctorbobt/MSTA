@@ -1,0 +1,6 @@
+D:\Downloads\MiscUtilities\MiscUtilities\bin\Debug\MiscUtilities.dll
+D:\Downloads\MiscUtilities\MiscUtilities\bin\Debug\MiscUtilities.pdb
+D:\Downloads\MiscUtilities\MiscUtilities\obj\Debug\MiscUtilities.csprojAssemblyReference.cache
+D:\Downloads\MiscUtilities\MiscUtilities\obj\Debug\MiscUtilities.csproj.CoreCompileInputs.cache
+D:\Downloads\MiscUtilities\MiscUtilities\obj\Debug\MiscUtilities.dll
+D:\Downloads\MiscUtilities\MiscUtilities\obj\Debug\MiscUtilities.pdb
