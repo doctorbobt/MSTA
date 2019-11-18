@@ -1,0 +1,14 @@
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\bin\Debug\BobDeluxeEditor.exe.config
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\bin\Debug\BobDeluxeEditor.exe
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\bin\Debug\BobDeluxeEditor.pdb
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\MainWindow.g.cs
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\App.g.cs
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor_MarkupCompile.cache
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor_MarkupCompile.lref
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\MainWindow.baml
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.g.resources
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.Properties.Resources.resources
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.csproj.GenerateResource.cache
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.csproj.CoreCompileInputs.cache
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.exe
+D:\Downloads\BobDeluxeEditor\BobDeluxeEditor\obj\Debug\BobDeluxeEditor.pdb
