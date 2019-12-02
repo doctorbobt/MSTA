@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadpool", "Threadpool\Threadpool.csproj", "{61E23957-41BF-4BED-B606-34D949B8C65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E23957-41BF-4BED-B606-34D949B8C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E23957-41BF-4BED-B606-34D949B8C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E23957-41BF-4BED-B606-34D949B8C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E23957-41BF-4BED-B606-34D949B8C65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6682E5B1-8F86-4237-A8E7-0A482313EA19}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\docto\source\repos\Threadpool\Threadpool\obj\Debug\Threadpool.csprojAssemblyReference.cache
+C:\Users\docto\source\repos\Threadpool\Threadpool\bin\Debug\Threadpool.exe.config
+C:\Users\docto\source\repos\Threadpool\Threadpool\bin\Debug\Threadpool.exe
+C:\Users\docto\source\repos\Threadpool\Threadpool\bin\Debug\Threadpool.pdb
+C:\Users\docto\source\repos\Threadpool\Threadpool\obj\Debug\Threadpool.exe
+C:\Users\docto\source\repos\Threadpool\Threadpool\obj\Debug\Threadpool.pdb

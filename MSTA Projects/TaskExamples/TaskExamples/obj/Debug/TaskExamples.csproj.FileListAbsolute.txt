@@ -1,0 +1,6 @@
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\bin\Debug\TaskExamples.exe.config
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\bin\Debug\TaskExamples.exe
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\bin\Debug\TaskExamples.pdb
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\obj\Debug\TaskExamples.csprojAssemblyReference.cache
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\obj\Debug\TaskExamples.exe
+C:\Users\docto\source\repos\TaskExamples\TaskExamples\obj\Debug\TaskExamples.pdb

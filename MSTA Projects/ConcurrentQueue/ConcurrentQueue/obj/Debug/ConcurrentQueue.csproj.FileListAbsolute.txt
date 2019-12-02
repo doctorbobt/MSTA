@@ -1,0 +1,6 @@
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.csprojAssemblyReference.cache
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe.config
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.exe
+C:\Users\docto\source\repos\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
