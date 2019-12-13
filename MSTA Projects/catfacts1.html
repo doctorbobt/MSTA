@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>This is a cat fact!</h1>
+    <div id="factArea"></div>
+    <button id="getCatFact">Get a Cat Fact</button>
+
+    <script>
+        $(document).ready(function () {
+            GetFactoid();
+            $("#getCatFact").on('click', function () {
+                GetFactoid();
+            });
+        });
+        function GetFactoid() {
+            $.ajax({
+                url: "https://api.chucknorris.io/jokes/random",
+                success: function (response) {
+                    var text = response.value;
+                    console.dir($('#factArea'));
+                    $("#factArea")[0].innerText = text;
+                }
+            });
+        }
+    </script>
+</body>
+</html>
