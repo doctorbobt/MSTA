@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\docto\\source\\repos\\Movies\\Movies\\Movies.csproj": {}
+    "C:\\Working Directory\\MSTA\\MSTA Projects\\Movies\\Movies\\Movies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\docto\\source\\repos\\Movies\\Movies\\Movies.csproj": {
+    "C:\\Working Directory\\MSTA\\MSTA Projects\\Movies\\Movies\\Movies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\docto\\source\\repos\\Movies\\Movies\\Movies.csproj",
+        "projectUniqueName": "C:\\Working Directory\\MSTA\\MSTA Projects\\Movies\\Movies\\Movies.csproj",
         "projectName": "Movies",
-        "projectPath": "C:\\Users\\docto\\source\\repos\\Movies\\Movies\\Movies.csproj",
+        "projectPath": "C:\\Working Directory\\MSTA\\MSTA Projects\\Movies\\Movies\\Movies.csproj",
         "packagesPath": "C:\\Users\\docto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\docto\\source\\repos\\Movies\\Movies\\obj\\",
+        "outputPath": "C:\\Working Directory\\MSTA\\MSTA Projects\\Movies\\Movies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
