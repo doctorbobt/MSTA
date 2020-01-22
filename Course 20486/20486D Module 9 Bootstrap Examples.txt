@@ -1,0 +1,165 @@
+Using Bootstrap Alerts
+@{
+ViewBag.Title = "Bootstrap Alerts Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows designed alert messages</h3>
+<div class="alert alert-danger" role="alert">
+This is a designed alert message
+</div>
+<div class="alert alert-success" role="alert">
+This is an alert with <a href="#" class="alert-link">link inside</a>
+</div>
+
+Using Bootstrap Buttons
+@{
+ViewBag.Title = "Bootstrap Buttons Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows Bootstrap designed buttons</h3>
+<button type="button" class="btn btn-outline-primary">Primary Style</button>
+<button type="button" class="btn btn-outline-secondary">Secondary Style</button>
+<button type="button" class="btn btn-success btn-lg">Large Success button</button>
+<button type="button" class="btn btn-danger btn-sm">Small Danger button</button>
+<button type="button" class="btn btn-outline-info">Info button</button>
+<button type="button" class="btn btn-outline-light">Light button</button>
+
+Using Bootstrap Dropdown
+@{
+ViewBag.Title = "Bootstrap Dropdown Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows a Bootstrap designed dropdown</h3>
+<div class="dropdown">
+<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+Info Button with Dropdown
+</button>
+<div class="dropdown-menu">
+<a class="dropdown-item" href="#">Link A</a>
+<a class="dropdown-item" href="#">Link B</a>
+<a class="dropdown-item" href="#">Link C</a>
+<div class="dropdown-divider"></div>
+<a class="dropdown-item" href="#">Separated Link</a>
+</div>
+</div>
+
+Using Bootstrap Form Controls
+@{
+ViewBag.Title = "Bootstrap Form Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows a Bootstrap designed form</h3>
+<form>
+<div class="form-group">
+<label for="firstname">First Name</label>
+<input type="text" class="form-control" id="firstname" placeholder="First Name">
+</div>
+<div class="form-group">
+<label for="lastname">Last Name</label>
+<input type="text" class="form-control" id="lastname" placeholder="Last Name">
+</div>
+<div class="form-group">
+<label for="email">Email</label>
+<input type="email" class="form-control" id="email" placeholder="Email">
+</div>
+<div class="form-group">
+<label for="password">Password</label>
+<input type="password" class="form-control" id="password" placeholder="Password">
+</div>
+<div class="form-group">
+<label for="city">City</label>
+<input type="text" class="form-control" id="city">
+</div>
+<div class="form-group">
+<label for="state">State</label>
+<select id="state" class="form-control">
+<option selected>Choose...</option>
+<option>NY</option>
+MCT USE ONLY. STUDENT USE PROHIBITED
+Developing ASP.NET Core MVC Web Applications 09-7
+<option>..</option>
+</select>
+</div>
+<div class="form-group">
+<label for="zip">Zip</label>
+<input type="text" class="form-control" id="zip">
+</div>
+<button type="submit" class="btn btn-primary">Sign Me Up</button>
+</form>
+
+Using Bootstrap Nav
+@{
+ViewBag.Title = "Bootstrap Nav Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows a Bootstrap designed nav</h3>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link active" href="/">Home Page</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/home/about">About</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/home/contact">Contact</a>
+</li>
+<li class="nav-item">
+<a class="nav-link disabled" href="#">Disabled Link</a>
+</li>
+</ul>
+
+Using Bootstrap Navbar
+@{
+ViewBag.Title = "Bootstrap Navbar Example";
+ViewBag.CompanyName = "Contoso";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows a Bootstrap designed navbar</h3>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<a class="navbar-brand" href="#">@ViewBag.CompanyName</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" datatarget="#
+navbarNav">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav">
+<li class="nav-item active">
+<a class="nav-link" href="/">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/home/about">About</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/home/contact">Contact</a>
+</li>
+</ul>
+</div>
+</nav>
+
+
+
+
+Using Bootstrap Modal:
+@{
+ViewBag.Title = "Bootstrap Modal Example";
+}
+<h2>@ViewBag.Title</h2>
+<h3>This page shows a Bootstrap designed modal</h3>
+<button type="button" class="btn btn-danger" data-toggle="modal" datatarget="#
+modalWindow">
+Click to Open a Modal Window
+</button>
+<div id="modalWindow" class="modal" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<p>This is a modal window</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary" datadismiss="
+modal">OK</button>
+</div>
+</div>
+</div>
+</div>
+
