@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizLet", "QuizLet\QuizLet.csproj", "{2A7CFAE5-DC72-4A12-B1C2-14FD062984D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7CFAE5-DC72-4A12-B1C2-14FD062984D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7CFAE5-DC72-4A12-B1C2-14FD062984D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7CFAE5-DC72-4A12-B1C2-14FD062984D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7CFAE5-DC72-4A12-B1C2-14FD062984D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B1EC6E-77E5-42E8-BB04-1158E3F08A0A}
+	EndGlobalSection
+EndGlobal
