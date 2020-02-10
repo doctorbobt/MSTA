@@ -1,0 +1,23 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <hr />
+        @{
+            List<LeaveRequest> lst = ViewData["LeaveRequest"] as List<LeaveRequest>;
+
+            if (lst != null)
+            {
+                foreach (var item in lst)
+                {
+                    <p>@item.Name - @item.From.ToShortDateString() - @item.To.ToShortDateString()</p>
+                }
+            }
+        }
+        <hr />
+        <form method="post">
+
+            <label for="firstName">Employee Id</label>
+            <input type="text" id="employeeID" name="employeeID" placeholder="Employee Id" />
+            <input type="submit" />
+        </form>
+    </div>
+</div>  

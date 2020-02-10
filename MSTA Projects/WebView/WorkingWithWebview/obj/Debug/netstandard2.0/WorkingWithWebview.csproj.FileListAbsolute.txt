@@ -1,0 +1,9 @@
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.deps.json
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.pdb
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.csprojAssemblyReference.cache
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfoInputs.cache
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfo.cs
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Working Directory\MSTA\MSTA Projects\WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.pdb
