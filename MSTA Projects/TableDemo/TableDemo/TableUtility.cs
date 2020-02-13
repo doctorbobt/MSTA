@@ -14,7 +14,7 @@ namespace TableDemo
         public static CloudTable AuthTable()
         {
             string accountName = "mstasa";
-            string accountKey = "wG6U+c00S8eQbC+1WSVxyuyKXtFg+qkuZ9DJFNtprRYDiGo3wS89jzhV8BuV8LB0YoypQTRnTlweM1iQQJmpeg==";
+            string accountKey = "accountKey";
             try
             {
                 StorageCredentials creds = new StorageCredentials(accountName, accountKey);
