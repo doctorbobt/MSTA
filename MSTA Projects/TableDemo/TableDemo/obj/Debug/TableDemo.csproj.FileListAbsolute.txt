@@ -1,0 +1,14 @@
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\TableDemo.exe.config
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\TableDemo.exe
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\TableDemo.pdb
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\docto\source\repos\TableDemo\TableDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\docto\source\repos\TableDemo\TableDemo\obj\Debug\TableDemo.csprojAssemblyReference.cache
+C:\Users\docto\source\repos\TableDemo\TableDemo\obj\Debug\TableDemo.csproj.CopyComplete
+C:\Users\docto\source\repos\TableDemo\TableDemo\obj\Debug\TableDemo.exe
+C:\Users\docto\source\repos\TableDemo\TableDemo\obj\Debug\TableDemo.pdb
