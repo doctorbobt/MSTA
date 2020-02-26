@@ -1,0 +1,5 @@
+C:\Users\docto\source\repos\GetARandomName\GetARandomName\bin\Release\GetARandomName.exe.config
+C:\Users\docto\source\repos\GetARandomName\GetARandomName\bin\Release\GetARandomName.exe
+C:\Users\docto\source\repos\GetARandomName\GetARandomName\bin\Release\GetARandomName.pdb
+C:\Users\docto\source\repos\GetARandomName\GetARandomName\obj\Release\GetARandomName.exe
+C:\Users\docto\source\repos\GetARandomName\GetARandomName\obj\Release\GetARandomName.pdb
